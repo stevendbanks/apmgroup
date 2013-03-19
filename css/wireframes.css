@@ -1,0 +1,20 @@
+/**
+ * @file
+ * Wireframes Styling
+ *
+ * Add wireframes to the basic layout elements.
+ */
+
+
+#grid_8 
+{
+  margin: 1px;
+  padding: 2px;
+  border: 1px solid #ccc;
+}
+
+.with-wireframes .region-page-closure {
+  margin-top: 1px;
+  padding: 2px;
+  border: 1px solid #ccc;
+}

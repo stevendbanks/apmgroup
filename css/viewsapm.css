@@ -1,0 +1,119 @@
+#apm_exec {
+}
+#apm_exec a {
+	text-decoration: none;
+	color: #000;
+}
+#apm_exec a:visited {
+	text-decoration: none;
+	color: #000;
+}
+#apm_exec a:active {
+	text-decoration: none;
+	color: #000;
+}
+#apm_exec a:hover {
+	color: #77B800;
+}
+
+.apm_news_front {
+	padding-bottom:20px;
+}
+.apm_news_front a {
+	color: #000;
+	text-decoration:none;
+}
+.apm_news_front a:visited {
+	color: #000;
+	text-decoration:none;
+}
+.apm_news_front a:active {
+	color: #77B800;
+	text-decoration:none;
+}
+
+.apm_news_front_title {
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+.apm_news_front_date {
+	color: #A9A9A9;
+	font-style: italic;
+	font-size: 8pt;
+}
+
+.apm_project_title {
+	font-weight: bold;
+	font-size: 14pt;
+	line-height:15px;
+}
+.apm_project_title a{
+	color: #000000;
+	text-decoration:none;
+}
+.apm_project_title a:visited{
+	color: #000000;
+	text-decoration:none;
+}
+.apm_project_title a:active{
+	color: #77B800;
+	text-decoration:none;
+}
+.apm_project_title a:hover{
+	color: #77B800;
+	text-decoration:none;
+}
+
+#apm_content .apm_project_links a {
+	color: #77B800;
+	text-decoration:none;
+}
+
+
+#apm_content .apm_project_links a:visited {
+	color:#77B800;
+	text-decoration:none;
+}
+.apm_project_links a:active {
+	color: #77B800;
+	text-decoration:none;
+}
+.apm_project_links a:hover {
+	color: #77B800;
+	text-decoration:underline;
+}
+
+#apm_content .read_more_link a {
+	color: #77B800;
+}
+#apm_content .read_more_link a:visited {
+	color: #77B800;
+}
+#apm_content .read_more_link a:active {
+	color: #77B800;
+}
+#apm_content .read_more_link a:hover {
+	color: #000000;
+}
+
+#apm_content .community_read_more_link a {
+	color: #77B800;
+	text-decoration: none;
+}
+#apm_content .community_read_more_link a:visited {
+	color: #77B800;
+	text-decoration: none;
+}
+#apm_content .community_read_more_link a:active {
+	color: #77B800;
+	text-decoration: none;
+}
+#apm_content .community_read_more_link a:hover {
+	color: #000000;
+	text-decoration: none;
+}
+
+.field-field-designation {
+	padding-bottom: 15px;	
+}

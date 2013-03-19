@@ -1,0 +1,150 @@
+
+#apm_safety {
+	position: relative;
+	top: -70px;
+	margin-left: -1125px;
+	z-index: 5;
+	text-align: center;
+}
+
+#apm_full_name {
+	float: right;
+	margin-top: 0px;
+	padding-right: 0px;
+	font-weight: bold;
+    font-size: 200%;
+	position: relative;
+	left:10px;
+	
+}
+
+/* Style for the 4 Featured Images on front page.*/
+#apm_featured {
+	width: 960px;
+	background: #ffffff;
+	padding-top:20px;
+	/*	margin-left: auto;
+	margin-right: auto;
+	*/
+	text-align:center;
+}
+
+.featured_block {
+	width: 176px;
+	background: #000000;
+	color: #ffffff;
+}
+.featured_block:hover {
+	background: #77b800;
+	color: #ffffff;
+}
+.featured_block_last {
+	width: 176px;
+}
+
+.feature_block_text {
+	text-align: center;
+}
+
+#block-block-5 .content .grid_6 {
+	margin: 0px;
+	padding: 0px;
+	padding-left: 42px;
+	padding-right: 42px;
+	width: 176px;
+}
+#block-block-5 .content .grid_6.first {
+	padding-left: 0px;
+	padding-right: 44px;
+}
+#block-block-5 .content .grid_6.last {
+	padding-left: 44px;
+	padding-right: 0px;
+}
+
+#block-block-5 .content .grid_6 a,
+#block-block-5 .content .grid_6 a:visited,
+#block-block-5 .content .grid_6 a:active {
+	text-decoration: none;
+}
+
+/* Front page body styles */
+#front_apm_content {
+	text-align:left;
+	padding-top: 25px;
+	/*padding-left: 10px;*/
+	width: 960px;
+	overflow:auto;
+	min-height:75px;
+	background: #ffffff;
+	position: relative;
+	z-index:3;
+	margin:0px;
+}
+#apm_text {
+}
+
+#apm_secondary_content {
+	text-align:left;
+}
+
+
+
+/* Slideshow wrapper for the Nivo slideshow */
+
+
+.slider-wrapper { 
+
+}
+
+/* Slideshow styles for position for x y z */
+#apm_slideshow {
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+}
+#apm_slideshow_wrapper {
+	position:absolute;
+	top:0px;
+	overflow: hidden;
+	width: 100%;
+	margin-left:auto;
+	margin-right:auto;
+	z-index:1;
+	background-color: #ffffff;
+	height: 450px;
+}
+
+#h_line_row {
+	padding-top:20px;
+	width: 960px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+/* hr line separating intro copy and news releases */
+hr {
+  border: 0 #77B800 solid;
+  border-top-width: 2px;
+  clear: both;
+  height: 0;
+}
+
+.apm_news_front .read_more_link a {
+	color: #77B800;
+}
+.apm_news_front .read_more_link a:visited {
+	color: #77B800;
+}
+.apm_news_front .read_more_link a:active {
+	color: #77B800;
+}
+.apm_news_front .read_more_link a:hover {
+	color: #000000;
+}
+
+
+.grid_24.slider-wrapper.theme-default {
+	margin-left: 0px;
+	padding-top: 1px;
+}
